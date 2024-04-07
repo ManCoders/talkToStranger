@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "http": "^0.0.1-security",
+    "init": "^0.1.2",
+    "nodemon": "^3.1.0",
+    "socket.io": "^4.7.5"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "name": "test",
+  "version": "1.0.0",
+  "main": "server.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
